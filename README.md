@@ -1,4 +1,4 @@
-# Japanese to English Excel Translator
+# AI Agent Japanese to English Excel Translator
 
 This Python script automates the translation of Japanese text in an Excel file to English using an AI agent powered by LLaMA and DuckDuckGo for place name verification. The translated text is inserted into the adjacent column.
 
